@@ -1,0 +1,27 @@
+.styleul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 3px;
+    overflow: hidden;
+    background-color: blanchedalmond;
+}
+.styleli{
+    float: left;
+    display: block;
+    color: darkgoldenrod;
+    text-align: center;
+    padding: 14px 15px;
+    text-decoration: aqua;
+}
+
+.stlea{
+    color: aquamarine;
+    text-decoration: blanchedalmond;
+    text-align: left;
+}
+li a:hover:not(active){
+    background-color: darkred;
+}
+.active{
+    background-color: lightsalmon;
+}
